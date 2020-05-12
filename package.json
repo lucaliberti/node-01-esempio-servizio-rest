@@ -1,0 +1,19 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/app02.js "
+  },
+  "author": "",
+  "license": "ISC"
+}
